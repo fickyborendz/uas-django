@@ -20,7 +20,7 @@ body {
   }
   header nav a.navbar-brand h2 {
   
-    color: var(--bs-orange);
+    color: var(--bs-orange)!important;
   }
   header nav ul.action-menu .nav-item .nav-link {
     margin: 0px 20px;
